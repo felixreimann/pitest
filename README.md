@@ -303,7 +303,7 @@ Notable contributions not visible [here](https://github.com/hcoles/pitest/graphs
 
 * Nicolas Rusconi - Ant Task
 * Struan Kerr-Liddell - Improvements to html report
-* Stephan Pendorf - Multiple improvments including improved mutators
+* Stephan Pendorf - Multiple improvements including improved mutators
  
 Although PIT does not incorporate any code from the Jumble project (http://jumble.sourceforge.net/), the Jumble codebase was used as a guide when developing some aspects of PIT.
 
